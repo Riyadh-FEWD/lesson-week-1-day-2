@@ -62,17 +62,29 @@ image retrieved from http://www.onbile.com/info/wp-content/uploads/2013/09/Timel
 
 Heading Elements
 
-```<h1>```Largest Heading```</h1>```
+```html
+<h1>Largest Heading</h1>
+```
 
-```<h2>``` . . . ```</h2>```
+```html
+<h2> . . . </h2>
+```
 
-```<h3>``` . . . ```</h3>```
+```html
+<h3> . . . </h3>
+```
 
-```<h4>``` . . .```</h4>```
+```html
+<h4> . . .</h4>
+```
 
-```<h5>``` . . . ```</h5>```
+```html
+<h5> . . . </h5>
+```
 
-```<h6>```Smallest Heading```</h6>```
+```html
+<h6>Smallest Heading</h6>
+```
 
 ---
 
@@ -80,33 +92,51 @@ Heading Elements
 
 Text Elements
 
-```<p>```This is a paragraph```</p>```
+```html
+<p>This is a paragraph</p>
+```
 
-```<code>```This is some computer code```</code>```
-
----
-
-## Content Tags
-
-Unordered list 
-```<ul>``` ```</ul>```
+```html
+<code>This is some computer code</code>
+```
 
 ---
 
 ## Content Tags
 
-Unordered list item 
-`
-	```<li>```First item```</li>```
-    ```<li>```Next item```</li>```
-
+Unordered list
+```html
+<ul>
+</ul>
+```
 
 ---
 
 ## Content Tags
 
-links 
- ```<a href="Link">```First item```</a>```
+Unordered list item
+```html
+  <li>First item</li>
+  <li>Next item</li>
+```
+
+## Content Tags
+
+Ordered list with list items
+```html
+<ol>
+  <li>First item</li>
+  <li>Next item</li>
+</ol>
+```
+---
+
+## Content Tags
+
+links
+ ```html
+ <a href="www.google.com">First item</a>
+ ```
 
 
 ---

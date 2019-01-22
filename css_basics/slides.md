@@ -212,7 +212,7 @@ The `href` attribute value works very similarly to linking to an image, or to an
 
 ## CSS Break Down
 
-```
+```css
 p {
 	color: red;
 	font-weight: bold;
@@ -238,7 +238,7 @@ The **selector**, `p` in this case, specifies what parts of the HTML document sh
 
 The **declaration block** here is:
 
-```
+```css
 {
 	color: red;
 	font-weight: bold;
@@ -256,7 +256,7 @@ The **declaration block** here is:
 
 This example has two declarations. Here's the first:
 
-```
+```css
 color: red;
 ```
 
@@ -273,7 +273,7 @@ In this declaration, we are setting the `color` **property** to the **value** `r
 
 Let's look at the second declaration:
 
-```
+```css
 font-weight: bold;
 ```
 
