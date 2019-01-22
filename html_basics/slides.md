@@ -146,24 +146,3 @@ links
 
 ![press_release](../img/unit_1/press_release.png)
 ---
-
-
-## External Style Sheets
-
----
-
-
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-## Cookie Recipe
-
-![cookie](../img/unit_1/cookie.png)
-
----
-
-## Homework
-
-*	Create a resume website
-*	Watch a video on the Internet about the Internet
-*	Read about CSS Colors
-
----

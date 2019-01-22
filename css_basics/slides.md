@@ -410,9 +410,9 @@ Add a couple points here with the major takeaways for the basics of CSS.
 
 ---
 
-
 ![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-## Lab Time
-*	Your Portfolio!
+## Cookie Recipe
+
+![cookie](../img/unit_1/cookie.png)
 
 ---
