@@ -54,7 +54,7 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 ### Resources
 
-- NOTE: There is **no starter code** for this assignment (only starter text), but a **sample** solution is [provided](solution).  Students will build this assignment from scratch and should feel free to get creative with regard to layout, color, styling, etc.
+- NOTE: There is **no starter code** for this assignment (only starter text).  You will build this assignment from scratch and should feel free to get creative with regard to layout, color, styling, etc.
 
 Here are examples of a simple "About" and "Portfolio" page that fulfill the assignment requirements:
 

@@ -144,6 +144,7 @@ links
 ![GeneralAssemb.ly](../img/icons/code_along.png)
 ## General Assembly Press Release
 
+![press_release](../img/unit_1/press_release.png)
 ---
 
 
@@ -154,6 +155,8 @@ links
 
 ![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
 ## Cookie Recipe
+
+![cookie](../img/unit_1/cookie.png)
 
 ---
 
