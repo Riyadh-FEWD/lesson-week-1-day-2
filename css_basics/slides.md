@@ -2,10 +2,6 @@
 
 # FEWD - CSS Basics
 
-### Instructor Name
-
-Instructors current role.
-
 ---
 
 

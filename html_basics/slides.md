@@ -2,10 +2,6 @@
 
 # FEWD - HTML BASICS
 
-### Instructor Name
-
-Instructors current role.
-
 ---
 
 
