@@ -1,0 +1,92 @@
+/*TAG*/
+p{
+  font-family: Georgia;
+  font-size: 20px;
+}
+
+img {
+   height: 300px;
+   width: 300px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   position: relative;
+   left: 1000px;
+   padding:6px;
+   border:1px solid #021a40;
+
+ }
+
+/*ID*/
+#main-heading {
+  font-size:bold;
+  text-align: center;
+}
+
+#line {
+   height: 5px;
+   background-color: black;
+   margin: 50px;
+ }
+ #media {
+   font:bold 15px;
+   text-decoration:underline;
+ }
+
+
+/*CLASS*/
+
+.name-header {
+  text-align: center;
+
+}
+
+.line2 {
+    width: 85%;
+}
+.line3 {
+    width: 60%;
+    margin-left: 100px;
+
+}
+
+.main-paragraph {
+  /* margin-left: 120px;
+  text-align: left; */
+  margin-right: 150px;
+  margin-left: 120px;
+}
+
+.websites {
+  padding:6px;
+  margin-right: 150px;
+  margin-left: 120px;
+}
+
+.center {
+ height: 600px;
+ width: 600px;
+ position: initial;
+ margin-left: 120px;
+ margin-right: initial;
+}
+
+.center1 {
+ height: 600px;
+ width: 600px;
+ position: initial;
+ margin-left: 244px;
+ margin-right: initial;
+}
+
+.center2 {
+ height: 600px;
+ width: 600px;
+ position: initial;
+ margin-left: 244px;
+ margin-right: initial;
+}
+
+.photo {
+  float: right;
+  position: unset;
+}
