@@ -1,0 +1,35 @@
+body {
+  background: lightblue;
+}
+
+.tabs {
+  text-align: center;
+}
+.reda {
+text-align: center;
+text-decoration: underline overline;
+}
+
+.paragraph {
+  font-size: 20px;
+  font-family: "Times New Roman" times, serif;
+}
+
+
+.mainlists {
+  color: white
+}
+.experience {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.redaatmayo {
+float:right;
+width:420px;
+height:420px;
+}
+
+
+.line {
+  border: solid
+}
