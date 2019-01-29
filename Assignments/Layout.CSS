@@ -1,0 +1,136 @@
+body {
+  margin-right: 300px;
+  margin-left: 300px;
+/*  border-top: 6px solid;
+  border-bottom: 6px solid; */
+  background-color: lightgrey;
+  font-family: sans-serif;
+}
+
+hr {
+  height: 5px;
+  color: black;
+  background-color: black;
+}
+
+h1 {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 20 px;
+}
+
+.main {
+/*  border-top: 1px solid;
+  border-bottom: 1px solid; */
+  margin-right: 100px;
+  margin-left: 80px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+
+.border-P{
+  margin-right: 0px;
+  height: 1px;
+  }
+
+  .border-2 {
+    height: 1px;
+    margin-bottom: 50px;
+  }
+
+
+
+.main3 {
+  float: right;
+  display: inline;
+  margin: -75px 0px 20px 0px;
+  border: 1px solid black;
+  padding: 4px;
+}
+.spacing-P {
+  margin-bottom: 0px;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.makeitalic {
+  font-style: italic;
+}
+
+.makeitalic-P {
+  font-style: normal;
+}
+
+.makeunderline-P {
+  font-style: italic;
+  /* text-decoration: underline; */
+}
+
+li + li::before {
+  content: " | ";
+}
+
+.toplist {
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 60px;
+  text-align: center;
+  }
+
+  .buttomlist {
+  margin-left:130px;
+  margin-top: -70px;
+  margin-bottom: 70px;
+  font-weight: bold;
+
+  }
+
+.toplist li {
+  display:inline;
+}
+
+.buttomlist li {
+  display: inline;
+}
+
+.BoldItalicSpan {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.PortfolioImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.MakeSmallerSpan {
+  font-size: 14px;
+}
+
+.Spacing-1-P {
+  margin-top: 0px;
+}
+
+.PortfolioPageUl {
+  list-style-type: circle;
+}
+
+.FirstBullet {
+  margin-left: 45px;
+}
+
+.awesomespan {
+  font-weight: bold;
+  font-family: cursive;
+}
