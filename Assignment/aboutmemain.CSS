@@ -1,0 +1,49 @@
+
+H1  {
+  text-align: center;
+  color:#000080;
+}
+Body {font-family:Georgia, serif;}
+h3  {font-size: 20px}
+#second ul li{
+    display: inline;
+    list-style-type:none;
+}
+h4 {font-weight: bold;
+color:#800000;}
+img {
+  border:3px solid black;
+  float:right;
+}
+#first {
+margin-top:50px;
+margin-right: 300px;
+margin-bottom: 50px;
+margin-left:500px;}
+#first p {color:#000080}
+
+#second {
+  margin-top:50px;
+  margin-right: 300px;
+  margin-bottom: 50px;
+  margin-left:630px;
+}
+
+header {
+ text-align: center;
+ margin: 0 auto;
+}
+
+li {
+ display: inline;
+ padding: 0px 5px 0px 5px;
+ font-size: 20px;
+ border-center: 2px solid black;}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+}
