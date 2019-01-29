@@ -1,0 +1,149 @@
+
+
+.sample-font-size {
+  font: normal 20px/1.5;
+}
+.notbold{
+    font-weight:normal;
+    font-size:18px;
+    font-style: italic;
+
+}
+.notbold2{
+    font-weight:normal;
+    font-size:18px;
+}
+.notbold3{
+    font-weight:normal;
+    font-size:18px;
+    font-style: italic;
+}
+.notbold4{
+    font-weight:normal;
+    font-size:18px;
+    font-style: italic;
+}
+.Portheader{
+  font-weight:normal;
+  font-family: serif;
+  font: italic bold 30px/1.6 Arial;
+
+
+}
+ol {
+color:black;
+font-weight:bolder;
+font-size:20px;
+line-height: 340px;
+text-align:center;
+}
+
+h1{
+  font-size: 30px;
+  font-family: serif;
+  padding:10px;
+}
+title{
+  font-style:italic;
+  font-size: 30px;
+  text-align:right;
+}
+.sample-font-size{
+
+    font-style:normal;
+    font-size: 20px;
+    text-align:left;
+    pointer-events: left;
+    padding: 0px 40px 0px 0px;
+    position:relative;
+    left:54px;
+}
+.sample5{
+  font-style:normal;
+  font-size: 20px;
+  text-align:left;
+  pointer-events: left;
+  padding: 0px 40px 0px 0px;
+  position:relative;
+  left:54px;
+}
+.sample6{
+  font-style:normal;
+  font-size: 20px;
+  text-align:left;
+  pointer-events: left;
+  padding: 0px 40px 0px 0px;
+  position:relative;
+  left:54px;
+}
+.sample3{
+  font-style:normal;
+  font-size: 30px;
+  padding: 0px 40px 0px 0px;
+}
+h2 {
+  font-style:normal;
+  font-size: 20px;
+  text-align:left;
+  left:54;
+  font-family: serif;
+  font: normal bold 20px/1.6;
+  position:relative;
+
+}
+.sample2{
+  font: normal bold 25px/10;
+}
+.sample4{
+  font-style:italic;
+  text-align:left;
+  left:54;
+  font-family: serif;
+  font: normal bold 18px/2;
+  position:relative;
+
+}
+  .samle4{
+    content: '\2022';
+    margin:0 10px
+}
+
+
+h1{
+  font-size: 30px;
+  font-family: serif;
+  padding:10px;
+}
+.sample2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: serif;
+
+}
+
+}
+li {
+  padding: 0px 0px 0px 0px;
+  display: inline;
+  text-align:center;
+  font-family:serif;
+}
+nav {
+  font-style:normal;
+  font-size: 20px;
+  text-align:center;
+  pointer-events: auto;
+
+    }
+    header {
+      font-style:normal;
+      font-size: 40px;
+      text-align:center;
+      pointer-events: auto;
+    }
+    body {
+      border-top: 5px solid black;
+      border-bottom: 5px solid black;
+    }
