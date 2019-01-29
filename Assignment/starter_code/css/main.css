@@ -1,0 +1,108 @@
+body {
+  background-color: #e8f4fa;
+  border-style: solid hidden solid hidden;
+margin: 50px 30px;
+  border-width: 7px;
+  padding: 30px;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  margin-left: 300px;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+
+}
+/*.main {
+  border-style: solid hidden solid hidden;
+  height: auto;
+}*/
+
+.second {
+  text-align: left;
+  margin: auto;
+  position: static;
+  word-wrap: break-word;
+  width: 80%;
+  align-self: flex-end;
+}
+
+.avatar {
+  border-style: solid;
+  border-width: thin;
+  width: 300px;
+  /*position: relative;*/
+  left: 800px;
+  top: -70px;
+  float: right;
+  margin: -10px 0px 0 20px;
+}
+
+.nav {
+      margin: 50px 0 10px 0;
+      padding-inline-start: 0px;
+
+    }
+.nav2 {
+      display: inline;
+      padding: 0px 3px 0px 3px;
+      font-weight: bold;
+      font-size: 22px;
+
+    }
+
+hr {
+  border-width: .5px;
+  border-style: solid;
+  margin: 50px auto;
+
+}
+
+.desc {
+  line-height: 35px;
+  font-family: 'Circular', Helvetica, Arial, sans-serif;
+  font-size: 25px;
+
+}
+
+h1 {
+
+  font-family: 'Circular', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 50px;
+    margin: 10px 0 40px 0;
+
+}
+h2 {
+
+  font-family: 'Circular', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-transform: none;
+}
+.Portfolio {
+  font-size: 40px;
+}
+
+li {
+  font-size: 20px;
+}
+span {
+  font-weight: bold;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-style: solid;
+  border-width: thin;
+  padding: 5px;
+}
