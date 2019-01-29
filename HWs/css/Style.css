@@ -1,0 +1,93 @@
+body {
+}
+.First-image {
+margin-right: 250px;
+float: right;
+   }
+.Second-image{
+  margin-left: 235px;
+}
+.Expe{
+  font-size: 25px;
+  font-weight: bold;
+}
+.Port{
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 60px
+}
+li {
+      font-weight: bold;
+    }
+    .InlineList{
+      display: inline;
+    }
+    .Rela{
+      font-weight: normal;
+      font-size: 18px;
+    }
+    .Web{
+        font-weight: bold;
+font-size: 20px;
+font-style: italic;
+    }
+    .End{
+      font-weight: normal;
+font-size: 15px;
+    }
+
+    h1 {
+      padding-bottom: -10px;
+font-family: Georgia, serif;
+      text-align: center;
+    }
+h2 {
+  font-family: Georgia, serif;
+  font-size: medium;
+  padding: 0px 300px 0px 230px;
+  text-align: left;
+}
+p{
+  padding: 0px 300px 0px 230px;
+text-align: left;
+
+}
+ .UpperList{
+padding-top: 20px;
+text-align: center;
+}
+.FirstLine{
+  margin-right: 220px;
+  margin-left: 220px;
+border-width: 2px;
+border-color: black;
+}
+.SecondLine{
+  margin-bottom: 30px;
+  margin-right: 250px;
+  margin-left: 230px;
+}
+.thirdLine{
+  margin-top: 30px;
+  margin-right: 420px;
+  margin-left: 230px;
+}
+.SecondList{
+  margin-top: 30px;
+margin-right: 50px;
+margin-left: 200px;
+text-align: center;
+}
+.FourthLine{
+  margin-top: 30px;
+  margin-right: 220px;
+  margin-left: 220px;
+border-width: 2px;
+border-color: black;
+}
+.BulttedList{
+  margin-left: 180px;
+}
+.SecondPageSecondP{
+  margin-left: 200px
+}
