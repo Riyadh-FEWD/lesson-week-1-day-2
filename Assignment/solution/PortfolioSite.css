@@ -1,0 +1,46 @@
+body{
+  font-family: Georgia serif;
+  background-color: rgb(246,246,246);
+}
+h3{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+a{
+  color: black;
+  font-style: normal;
+}
+.myURLs{
+  list-style-type: none;
+  display: inline-block;
+}
+ul{
+  list-style-type: square;
+  font-weight: bold;
+}
+hr{
+  position: relative;
+}
+.MyImage{
+  float: right;
+  background-size: contain;
+  width: 200px;
+  margin: 20px;
+  border: 1px solid black;
+  padding: 2px;
+
+}
+.aboutme-layout{
+  border-top: solid black;
+  border-bottom:  solid black;
+  padding: 40px;
+  margin: 10px;
+}
+.paragraphWithImage{
+  overflow: hidden;
+}
+span{
+  font-style: italic;
+}

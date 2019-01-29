@@ -1,0 +1,9 @@
+p {
+  color: red;
+}
+table, th, td {
+  border: 1px solid black;
+}
+.city-table{
+  border: 1px solid red;
+}
