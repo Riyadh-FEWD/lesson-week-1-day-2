@@ -1,0 +1,123 @@
+
+body
+{
+  font-family:Georgia ,serif;
+  background-color: #85a3e0;
+  color: #1C0F5E;
+}
+h1
+{
+text-align: center;
+  margin:  30px 0px 30px 0px;
+  font-family:time ,sans-serif;
+}
+h2
+{
+    margin:  10px 100px 20px 100px;
+    font-family:time ,sans-serif;
+}
+h3
+{
+  margin:  40px 100px 30px 100px;
+  font-family:time ,sans-serif;
+}
+p
+{
+margin:  10px 100px  10px 100px;
+font-family:Georgia ,serif;
+font-size: 18px;
+}
+ul
+{
+margin:  10px 70px 70px 70px ;
+}
+li
+{
+margin:  30px 30px ;
+list-style-type: square;
+}
+li.edulist
+{
+margin:  10px 10px  ;
+}
+SPAN.JOB-title
+{
+  font-weight: bold;
+  display: block;
+  line-height: 2.4;
+  font-style: oblique;
+}
+SPAN.company-name
+{
+  font-style: normal;
+  font-weight:normal;
+
+}
+SPAN.year
+{
+  font-size: 12px;
+ font-weight:normal;
+ font-family:Arial, Helvetica, sans-serif;
+}
+span.italiched
+{
+  font-style: italic;
+  font-weight: bold;
+ font-size: 15px;
+}
+a
+{
+font-weight: bold;
+font-size: 15px;
+margin: 0px  5px;
+display:inline;
+color: #1C0F5E;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+img
+{
+margin: 10px  100px 10px 100px;
+border: 2px solid #7781B6;
+height: 350px;
+width: 800px;
+padding: 5px;
+}
+img.perpic
+{
+  float: right;
+  height: 200px;
+  width: 200px;
+  margin: 10px  100px 10px 100px;
+
+}
+footer
+{
+margin: 50px  150px  50px  150px;
+text-align: center;
+}
+
+header
+{
+  margin: 50px  0px 10px 0px;
+  text-align: center;
+}
+#bold
+{
+font-weight: bold;
+font-style: italic;
+}
+hr.line1{
+  width: auto;
+  border-bottom: 6px solid ;
+  margin: 10px 10px 40px 10px;
+  display: block;
+  color: #1C0F5E;
+  }
+hr.line2{
+  width: auto;
+  border-bottom: 1px solid ;
+  margin: 30px 100px 30px 100px;
+  display: block;
+  color: #7781B6;
+  }
