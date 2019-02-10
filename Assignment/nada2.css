@@ -1,0 +1,99 @@
+div{
+
+  padding: 0px 120px 0px 120px;
+}
+
+.line1 {
+  border-top: 10px solid rgb(117, 117, 163);
+  margin: 30px 2px 0px 2px;
+  text-align: center;
+font-family: fantasy;
+  padding: 20px 0px 0px 3px;
+    list-style-type: none;
+  text-shadow: 2px 2px rgb(179, 240, 255);
+
+}
+.sub-text {
+  size: small;
+  color: rgba(220, 198, 224, 1);
+}
+  .line2 {
+    border-bottom: 8px solid rgb(117, 117, 163);
+    margin: 30px 6px;
+
+  }
+
+  .list1  {
+      display: inline-block;
+            margin-bottom:  25px;
+      color:rgba(220, 198, 224, 1);
+      text-shadow: 2px 2px rgb(179, 240, 255);
+      }
+
+  a {
+    color: rgba(220, 198, 224, 1);
+    text-shadow: 2px 2px rgb(179, 240, 255);
+}
+
+   .list2{
+      color: rgba(103, 65, 114, 1);
+      font-family:"Lucida Console", Monaco, monospace;
+      margin-bottom:  25px;
+   }
+
+
+  body{
+    background-color: rgb(236, 242, 248);
+    padding:  1px 50px;
+  }
+
+  h1 {
+    text-align: center;
+    position: relative;
+    font-family: 'Wendy One', sans-serif;
+      letter-spacing: 1px;
+      font-size: 40px;
+      color: rgba(115, 101, 152, 1);
+    text-shadow: 2px 3px rgba(220, 198, 224, 1);
+         padding: 0px 0px 20px 0px;
+      border-bottom: 3px solid rgba(220, 198, 224, 1);
+      border-radius: 3px;
+    margin:7px 150px;
+
+  }
+
+
+  h2  {
+    color: rgba(115, 101, 152, 1);
+    text-shadow: 2px 3px rgba(220, 198, 224, 1);
+    font-family: 'Acme', sans-serif;
+    padding-top: 50px;
+      }
+
+  h3 {
+  color: rgba(129, 207, 224, 1);
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  }
+
+  h4{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: bold;
+            color: rgba(129, 207, 224, 1);
+    padding-top: 10px;
+    margin-left: 20px;
+    }
+
+
+  p {
+    font-family:"Lucida Console", Monaco, monospace;
+    color:rgba(103, 65, 114, 1);
+padding-bottom: 2px;
+text-align: justify;
+    }
+
+img{
+border: 4px solid rgba(220, 198, 224, 1);
+margin-left: 20px;
+width: 450px;
+height: 300px;
+}

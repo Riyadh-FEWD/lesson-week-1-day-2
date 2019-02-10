@@ -1,0 +1,98 @@
+div {
+  margin: 0px 30px;
+}
+
+.line {
+  border-top: 10px solid rgb(117, 117, 163);
+  margin: 40px 90px 0px 90px;
+}
+
+  .line2 {
+    border-bottom: 10px solid rgb(117, 117, 163);
+    margin: 30px 90px 0px 90px;
+  }
+  
+body{
+  background-color: rgb(236, 242, 248);
+  margin: 30px;
+
+}
+ul {
+  text-align: center;
+  list-style-type: none;
+  padding: 10px 0px 10px 0px;
+  text-shadow: 2px 2px rgb(179, 240, 255);
+  color: rgba(220, 198, 224, 1);
+}
+li {
+display: inline-block;
+ padding-bottom: 14px;
+ font-family: fantasy;
+ color: rgba(220, 198, 224, 1);
+  }
+
+  a {
+    color: inherit;
+}
+  h1 {
+    text-align: center;
+    position: relative;
+    font-family: 'Wendy One', sans-serif;
+      letter-spacing: 1px;
+      font-size: 40px;
+      color: rgba(115, 101, 152, 1);
+    text-shadow: 2px 3px rgba(220, 198, 224, 1);
+         padding: 0px 0px 20px 0px;
+      border-bottom: 3px solid rgba(220, 198, 224, 1);
+      border-radius: 3px;
+    margin:7px 150px;
+
+  }
+  .h1l {
+        border-bottom: 3px solid rgba(220, 198, 224, 1);
+        border-radius: 1px;
+    text-align: left;
+      margin: 3px 420px 0px 130px;
+      text-align: justify;
+  }
+  .sub-title {
+    color: rgba(115, 101, 152, 1);
+    letter-spacing: 3px;
+    text-align: center;
+    font-family: 'Wendy One', sans-serif;
+     padding: 20px 0px 0px 50px;
+  font-size: 24px;
+  text-shadow: 2px 2px white;
+
+     }
+span {
+  font-size: 40px;
+  color: rgba(129, 207, 224, 1);
+}
+     p {
+
+       padding: 17px 50px 60px;
+       font-size: 20px;
+       font-family: 'Wendy One', sans-serif;
+       color: rgba(169, 109, 173, 1);
+       text-shadow: 1px 1px rgb(230, 230, 255);
+     }
+  .contact {
+        color: rgb(71, 71, 107);
+        text-shadow: 2px 2px rgb(179, 240, 255);
+        padding: 1px 5px;
+        text-align: center;
+  color: rgba(220, 198, 224, 1);
+  }
+
+  img{
+    border:5px solid;
+    float: right;
+    position: relative;
+    margin-right: 190px;
+border-color: rgba(220, 198, 224, 1);
+      border-radius: 20px;
+      height: 230px;
+    width: 230px;
+     z-index: 7;
+       }
